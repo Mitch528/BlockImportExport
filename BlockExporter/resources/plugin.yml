@@ -1,0 +1,6 @@
+name: BlockExporter
+version: 1.0
+description: Export blocks
+author: Mitch528
+authors: [Mitchell Kutchuk]
+main: com.mitch528.blockexporter.main.BlockExporter

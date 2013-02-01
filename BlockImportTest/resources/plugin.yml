@@ -1,0 +1,6 @@
+name: BlockImportTest
+version: 1.0
+description: Import blocks
+author: Mitch528
+authors: [Mitchell Kutchuk]
+main: com.mitch528.blockimporter.main.BlockImportTest
